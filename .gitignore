@@ -4,7 +4,8 @@
 
 /SS.Data/obj
 /.vs/ServiceShare/FileContentIndex
-/SS.Data
+
 /ss.presentation/obj/Debug
 /SS.Service/obj
 *.v2
+/SS.Data/bin/Debug/net8.0
